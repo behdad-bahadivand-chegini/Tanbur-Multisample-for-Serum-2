@@ -79,9 +79,7 @@ You can edit these values in `tanbour.sfz` with any text editor, or adjust the e
 | Can't find the Multisample option | You are on Serum 1. Update to Serum 2. |
 | Some keys are silent | Expected: only the two ranges above are mapped. |
 
-### License
 
-Released under the **MIT License** (see `LICENSE`).
 
 ### Credits
 
@@ -150,13 +148,9 @@ Tanbur-Multisample-for-Serum-2/
 - **رزونانس:** کمی ریورب یا IR اتاق چوبی صدا را طبیعی‌تر می‌کند.
 - **ربع‌پرده:** برای نواختن ربع‌پرده از Fine-tune سروم یا MTS / MPE در DAW استفاده کنید.
 - **محدوده:** برای نواختن بم‌تر یا زیرتر، اسیلاتور را در سروم ترانهاده (Octave / Semitone) کنید.
-- **CPU:** مولتی‌سمپل از ویوتیبل سنگین‌تر است؛ اگر صدا ترق‌ترق کرد تعداد یونیسون/وویس را کم کنید.
+- **CPU:** مولتی‌سمپل از ویوتیبل سنگین‌تر است؛ اگر صدا ترق‌ترق کرد تعداد یونیسون/وویس را کم کنید. (فایل `LICENSE`).
 
-### لایسنس
 
-تحت **MIT License** منتشر شده است (فایل `LICENSE`).
-
-### اعتبار
 
 ضبط و برنامه‌نویسی: *بهداد بهادیوند*
 ساز: *تنبور سه‌سیم کردی، آبدرباشی*
