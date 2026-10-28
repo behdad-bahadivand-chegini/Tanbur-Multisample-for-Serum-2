@@ -73,15 +73,14 @@ If you only want one note stretched across the keyboard, load any WAV from `Samp
 
 ### License
 
-© *[Your name]*. Free to use in your music, **including commercial releases**.
+© *Behdad Bahadivand*. Free to use in your music, **including commercial releases**.
 You may **not** redistribute or resell the samples themselves as a sample pack or library.
-*(Edit this section to fit your terms, or add a `LICENSE` file such as CC BY 4.0.)*
+
 
 ### Credits
 
-Recorded and programmed by *[Your name]*.
-Tanbur: *[instrument details, e.g. 3-string Kurdish tanbur]*.
-Contact: *[email / Instagram / website]*
+Recorded and programmed by *Behdad Bahadivand*.
+Tanbur: *Abdarbashi, 3-string Kurdish tanbur*.
 
 ---
 
@@ -129,15 +128,8 @@ Tanbur/
 - **ربع‌پرده:** برای نواختن ربع‌پرده از Fine-tune سروم یا تنظیمات میکروتونال DAW استفاده کنید.
 - **CPU:** مولتی‌سمپل از ویوتیبل سنگین‌تر است؛ اگر صدا ترق‌ترق کرد تعداد یونیسون/وویس را کم کنید.
 
-### استفاده‌ی تک‌سمپل
-
-اگر فقط یک نت می‌خواهید روی کل کیبورد پخش شود، یکی از WAVها را در اسیلاتور **Sample** سروم ۲ لود کنید. سروم نام نت را از انتهای اسم فایل می‌خواند (مثلاً `Tanbur_C3.wav`). سروم نت **A3 = 440Hz** را مبنا می‌گیرد، پس اگر یک اکتاو بالا یا پایین پخش شد، شماره‌ی اکتاو نام فایل را اصلاح کنید.
-
-### لایسنس
 
 استفاده در موسیقی شما، **حتی تجاری**، آزاد است. بازپخش یا فروش خود سمپل‌ها به‌عنوان پک سمپل ممنوع است.
 
-### اعتبار
 
-ضبط و برنامه‌نویسی: *[نام شما]*
-ارتباط: *[ایمیل / اینستاگرام]*
+ضبط و برنامه‌نویسی: *بهداد بهادیوند*
