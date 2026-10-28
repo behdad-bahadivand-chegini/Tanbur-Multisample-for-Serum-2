@@ -67,7 +67,6 @@ You can edit these values in `tanbour.sfz` with any text editor, or adjust the e
 
 - **Ring:** the tanbur has sympathetic resonance. A touch of reverb or a short convolution IR of a wooden room sounds very natural.
 - **Microtonal playing:** Persian and Kurdish music uses quarter-tones. Use Serum's fine-tune or an MTS / MPE setup in your DAW to detune individual notes.
-- **Range:** to play lower or higher, transpose the oscillator in Serum (octave / semitone) rather than expecting extra zones.
 - **CPU:** multisample patches are heavier than wavetables. Lower the unison/voice count if you hear crackles.
 
 ### Troubleshooting
@@ -147,7 +146,6 @@ Tanbur-Multisample-for-Serum-2/
 
 - **رزونانس:** کمی ریورب یا IR اتاق چوبی صدا را طبیعی‌تر می‌کند.
 - **ربع‌پرده:** برای نواختن ربع‌پرده از Fine-tune سروم یا MTS / MPE در DAW استفاده کنید.
-- **محدوده:** برای نواختن بم‌تر یا زیرتر، اسیلاتور را در سروم ترانهاده (Octave / Semitone) کنید.
 - **CPU:** مولتی‌سمپل از ویوتیبل سنگین‌تر است؛ اگر صدا ترق‌ترق کرد تعداد یونیسون/وویس را کم کنید. (فایل `LICENSE`).
 
 
